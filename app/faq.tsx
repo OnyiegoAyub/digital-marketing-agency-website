@@ -22,7 +22,7 @@ const FAQS = () => {
             </div>
             <Accordion type="single" collapsible>
     <AccordionItem value="item-1">
-      <AccordionTrigger>What is Yubtech Solutions?</AccordionTrigger>
+      <AccordionTrigger>What is Yubitech Solutions?</AccordionTrigger>
       <AccordionContent>
         Yubitech Solutions is a full fledge digital agency that specializes in web design, digital marketing, and branding.
       </AccordionContent>
