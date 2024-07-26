@@ -63,7 +63,7 @@ const Navbar = ({
           </div>
 
           <div onClick={scrollToShopifyStores} className="hover:text-gray-50">
-            Shopify Stores
+            E-Commerce/Shopify Stores
           </div>
           <div onClick={scrollToBrands} className="hover:text-gray-50">
             Brands
@@ -107,7 +107,7 @@ const Navbar = ({
 
             "
           >
-            Contact
+            WhatsApp - 0700183840
           </Link>
         </div>
       </div>
