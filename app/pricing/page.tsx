@@ -11,8 +11,8 @@ import Navbar from "@/components/navbar";
 const plans = [
   {
     index: 0,
-    name: "Basic",
-    price: " US $200",
+    name: "Basic (5 MBPS)",
+    price: " KES 1500",
     features: [
       "Fully responsive on all screens",
 

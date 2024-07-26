@@ -70,7 +70,7 @@ const Navbar = ({
           </div>
 
           <Link href="/pricing" className="hover:text-gray-50">
-            Pricing
+            ISP Services
           </Link>
         </div>
 
