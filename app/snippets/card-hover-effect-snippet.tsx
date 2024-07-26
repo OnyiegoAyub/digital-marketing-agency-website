@@ -25,9 +25,9 @@ export const projects = [
       },
       {
         icon : <div className="bg-blue-100 p-4 rounded-full"><PiLock className="w-8 h-8 text-blue-600" /></div>,
-        title: "Authentication",
+        title: "Technical Writing",
         description:
-          "Secure authentication solutions for your website or app. We use the latest technology to keep your data safe.",
+          "Enhance your projects with our precise and engaging technical writing service, ensuring clear and effective communication of complex information to your audience.",
       
       },
       {
